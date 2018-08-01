@@ -1,0 +1,69 @@
+head {
+  display: none;
+}
+.navbar {
+  margin-bottom: 0;
+  z-index: 9;
+  width: 100%;
+  position: relative;
+  background: #444;
+  font-size: 13px;
+}
+element.style {
+}
+#sidebar {
+  pedding:0;
+  width: 290px;
+  font-size: 14px;
+  float: right;
+  margin-bottom: 20px;
+  margin-right:75px;
+}
+.col_fade {
+  color: #444;
+}
+#sidebar .topic_title {
+  max-width: 270px;
+  font-size: 14px;
+}
+.friendship-community img {
+  width: 150px;
+}
+#preview-modal, .cnode-app-download {
+  text-align: center;
+}
+ .cnode-app-download {
+  text-align: center;
+}
+#content {
+  padding: 0;
+  margin-right: 380px;
+  margin-left: 75px;
+}
+.main{
+  margin-top:15px;
+}
+.user_avatar img{
+  width: 30px;
+  height: 30px;
+  border-radius: 3px;
+}
+.pagination {
+  height: 40px;
+  margin: 10px 0 0 10px;
+}
+img {
+  width: auto\9;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+.col_fade {
+  color: #ababab;
+}
+#footer_main{
+  line-height: 2em;
+}
